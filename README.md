@@ -1,5 +1,5 @@
 # GoogleBard-VisUnderstand
-Created by [Haotong Qin](https://htqin.github.io/)$^*$, [Ge-Peng Ji](https://gewelsji.github.io/)$^*$, [Salman Khan](https://salman-h-khan.github.io/), [Deng-Ping Fan](https://dengpingfan.github.io/)$^{\#}$, [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home), [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) from ETH Zurich, MBZUAI, and ANU.
+Created by [Haotong Qin](https://htqin.github.io/)\*, [Ge-Peng Ji](https://gewelsji.github.io/)\*, [Salman Khan](https://salman-h-khan.github.io/), [Deng-Ping Fan](https://dengpingfan.github.io/)$^{\#}$, [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home), [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) from ETH Zurich, MBZUAI, and ANU.
 
 ### Introduction
 
