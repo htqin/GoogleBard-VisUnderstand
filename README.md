@@ -57,7 +57,7 @@ Google's **Bard** has emerged as a formidable competitor to OpenAI's ChatGPT in 
 If you find our work useful in your research, please consider citing:
 
 ```
-@inproceedings{GoogleBard_VisUnderstand:MIR22,
+@inproceedings{GoogleBard_VisUnderstand:MIR23,
   author    = {Haotong Qin and Ge-Peng Ji and Salman Khan and Deng-Ping Fan and Fahad Shahbaz Khan and Luc Van Gool },
   title     = {How Good is Google Bard's Visual Understanding? An Empirical Study on Open Challenges},
   booktitle = {Machine Intelligence Research (MIR)},
