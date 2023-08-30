@@ -61,6 +61,9 @@ If you find our work useful in your research, please consider citing:
   author    = {Haotong Qin and Ge-Peng Ji and Salman Khan and Deng-Ping Fan and Fahad Shahbaz Khan and Luc Van Gool },
   title     = {How Good is Google Bard's Visual Understanding? An Empirical Study on Open Challenges},
   booktitle = {Machine Intelligence Research (MIR)},
+  doi       = {10.1007/s11633-023-1469-x},
+  volume    = {20(5)},
+  page      = {605-613},
   year      = {2023}
 }
 ```
