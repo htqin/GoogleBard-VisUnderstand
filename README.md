@@ -50,4 +50,17 @@ Google's **Bard** has emerged as a formidable competitor to OpenAI's ChatGPT in 
 
 ![Bard-COCO](./images/Samples-RAVQA-LR.png)
 
-> **Fig. 11**. Several examples of multi-modal interactive sessions using Google’s BARD, wherein the AI system responds to the user’s question based on images sourced from the RAVQA-LR dataset [16]. Please refer to 2.15 for further detail
+> **Fig. 11**. Several examples of multi-modal interactive sessions using Google’s BARD, wherein the AI system responds to the user’s question based on images sourced from the RAVQA-LR dataset.
+
+### Citation
+
+If you find our work useful in your research, please consider citing:
+
+```
+@inproceedings{GoogleBard_VisUnderstand:MIR22,
+  author    = {Haotong Qin and Ge-Peng Ji and Salman Khan and Deng-Ping Fan and Fahad Shahbaz Khan and Luc Van Gool },
+  title     = {How Good is Google Bard's Visual Understanding? An Empirical Study on Open Challenges},
+  booktitle = {Machine Intelligence Research (MIR)},
+  year      = {2023}
+}
+```
