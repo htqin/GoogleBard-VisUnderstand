@@ -62,7 +62,8 @@ If you find our work useful in your research, please consider citing:
   title     = {How Good is Google Bard's Visual Understanding? An Empirical Study on Open Challenges},
   booktitle = {Machine Intelligence Research (MIR)},
   doi       = {10.1007/s11633-023-1469-x},
-  volume    = {20(5)},
+  volume    = {20},
+  number    = {5},
   page      = {605-613},
   year      = {2023}
 }
