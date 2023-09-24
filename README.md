@@ -1,6 +1,6 @@
 # GoogleBard-VisUnderstand
 
-This is the official project of [***How Good is Google Bard's Visual Understanding? An Empirical Study on Open Challenges***](https://arxiv.org/pdf/2307.15016.png), which is created by [Haotong Qin](https://htqin.github.io/)\*, [Ge-Peng Ji](https://gewelsji.github.io/)\*, [Salman Khan](https://salman-h-khan.github.io/), [Deng-Ping Fan](https://dengpingfan.github.io/)\#, [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home), [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) from ETH Zurich, MBZUAI, and ANU.
+This is the official project of [***How Good is Google Bard's Visual Understanding? An Empirical Study on Open Challenges***](https://arxiv.org/abs/2307.15016), which is created by [Haotong Qin](https://htqin.github.io/)\*, [Ge-Peng Ji](https://gewelsji.github.io/)\*, [Salman Khan](https://salman-h-khan.github.io/), [Deng-Ping Fan](https://dengpingfan.github.io/)\#, [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home), [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) from ETH Zurich, MBZUAI, and ANU.
 
 ### 1 Introduction
 
